@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@100&display=swap');
+
+
+body{
+    background-image: url('images/bg.png');
+}
+
+#initial{
+    display: flex;
+    flex-direction: column;
+    height: 50vh;
+    width: 50vw;
+    justify-content: center;
+    align-items: center;
+    margin: 15%;
+}
+#logo  {
+    font-size: 2rem;
+    text-align: center;
+    font-family: 'Bebas Neue';
+
+}
+
+nav{
+    
+    position: fixed;
+    top:0;
+    left:0;
+    right:0;
+    width:100%;
+    background-color: white;
+     
+}
+
+
+
+
